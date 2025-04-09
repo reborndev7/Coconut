@@ -6,7 +6,7 @@ export default function Home() {
       <div className="w-full relative">
         <img
           className="w-full h-[600px] object-cover object-center"
-          src="/public/assets/images/coco.jpg"
+          src="/assets/images/coco.jpg"
           alt="image1"
         />
         <div className="absolute top-1/2 translate-y-[-50%] w-full">
