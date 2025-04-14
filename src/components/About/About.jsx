@@ -7,6 +7,7 @@ export default function About() {
             <img
               src="/assets/images/coconut-still-life.jpg"
               alt="image"
+              className="rounded-xl shadow-2xl"
             />
           </div>
           <div className="md:7/12 lg:w-6/12">
